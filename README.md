@@ -1,2 +1,2 @@
 #Planets
-Markdown is *realy* **cool**
+Markdown is *really* **cool**
